@@ -48,6 +48,29 @@
  * @help このプラグインには、プラグインコマンドはありません。
  */
 
+ /*:ru
+ * @plugindesc Смена позиции стартового меню игры (Title).
+ * @author Yoji Ojima
+ *
+ * @param Offset X
+ * @desc Смещение по Х координате.
+ * @default 0
+ *
+ * @param Offset Y
+ * @desc Смещение по Y координате.
+ * @default 0
+ *
+ * @param Width
+ * @desc Ширина меню.
+ * @default 240
+ *
+ * @param Background
+ * @desc Задний фон меню. 0: Обычный, 1: Чёрный-прозранчый, 2: Отсутствует
+ * @default 0
+ *
+ * @help Этот плагин не содержит никаких команд.
+ */
+ 
 (function() {
 
     var parameters = PluginManager.parameters('TitleCommandPosition');
