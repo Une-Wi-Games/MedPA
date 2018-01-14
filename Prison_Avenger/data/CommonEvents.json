@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"list":[{"code":230,"indent":0,"parameters":[60]},{"code":122,"indent":0,"parameters":[22,22,1,0,1]},{"code":111,"indent":0,"parameters":[1,22,0,60,0]},{"code":122,"indent":1,"parameters":[23,23,1,0,1]},{"code":122,"indent":1,"parameters":[22,22,0,0,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[1,23,0,24,0]},{"code":122,"indent":1,"parameters":[24,24,1,0,1]},{"code":122,"indent":1,"parameters":[23,23,0,0,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Время","switchId":62,"trigger":2},
+{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
